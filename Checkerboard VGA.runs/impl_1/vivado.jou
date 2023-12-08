@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Oct 26 08:26:33 2023
+# Process ID: 1700
+# Current directory: D:/Whatsapp work/Usama Qureshi/Checkerboard VGA/Checkerboard VGA.runs/impl_1
+# Command line: vivado.exe -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file: D:/Whatsapp work/Usama Qureshi/Checkerboard VGA/Checkerboard VGA.runs/impl_1/top.vdi
+# Journal file: D:/Whatsapp work/Usama Qureshi/Checkerboard VGA/Checkerboard VGA.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace
